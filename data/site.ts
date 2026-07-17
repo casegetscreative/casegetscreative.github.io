@@ -11,14 +11,14 @@
 export const site = {
   url: 'https://example.com',
   meta: {
-    title: 'Alex Morgan | Full-stack engineer',
+    title: 'Casey Johnsons | Healthcare Data Analyst | Clinical Research | Neuroscience',
     description:
       'Portfolio example: shipping reliable web products with clear architecture, tests, and delivery practices.',
   },
   hero: {
-    name: 'Alex Morgan',
-    role: 'Full-stack engineer',
-    tagline: 'From product intent to production — pragmatic systems, accessible UI, and maintainable code.',
+    name: 'Casey Johnson',
+    role: 'Casey Johnsons | Healthcare Data Analyst | Clinical Research | Neuroscience',
+    tagline: 'Turning healthcare data into meaningful insights through science, analytics, and creativity.',
     contact: 'Open to collaborations and senior IC roles on product-minded teams.',
     avatarSrc: '/favicon.svg',
     avatarAlt: 'Alex Morgan',
