@@ -13,13 +13,13 @@ export const site = {
   meta: {
     title: 'Healthcare Data Analyst | Clinical Research | Neuroscience',
     description:
-      'Portfolio example: shipping reliable web products with clear architecture, tests, and delivery practices.',
+      'Turning healthcare data into meaningful insights through science, analytics, and creativity.',
   },
   hero: {
     name: 'Casey Johnson',
     role: 'Healthcare Data Analyst | Clinical Research | Neuroscience',
     tagline: 'Turning healthcare data into meaningful insights through science, analytics, and creativity.',
-    contact: 'Open to collaborations and senior IC roles on product-minded teams.',
+    contact: "Research Interests: Neurobiology of Addiction • Women's Health • Developmental Neuroscience • Rare Diseases.",
     avatarSrc: '/305549503.jpeg',
     avatarAlt: 'Casey Johnson',
   },
