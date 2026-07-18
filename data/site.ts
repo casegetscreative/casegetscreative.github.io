@@ -11,17 +11,17 @@
 export const site = {
   url: 'https://example.com',
   meta: {
-    title: 'Casey Johnsons | Healthcare Data Analyst | Clinical Research | Neuroscience',
+    title: 'Casey Johnson | Healthcare Data Analyst | Clinical Research | Neuroscience',
     description:
       'Portfolio example: shipping reliable web products with clear architecture, tests, and delivery practices.',
   },
   hero: {
     name: 'Casey Johnson',
-    role: 'Casey Johnsons | Healthcare Data Analyst | Clinical Research | Neuroscience',
+    role: 'Casey Johnson | Healthcare Data Analyst | Clinical Research | Neuroscience',
     tagline: 'Turning healthcare data into meaningful insights through science, analytics, and creativity.',
     contact: 'Open to collaborations and senior IC roles on product-minded teams.',
-    avatarSrc: '/favicon.svg',
-    avatarAlt: 'Alex Morgan',
+    avatarSrc: '/305549503.jpeg',
+    avatarAlt: 'Casey Johnson',
   },
   about: {
     paragraphs: [
