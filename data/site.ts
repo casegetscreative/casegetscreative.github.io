@@ -25,8 +25,9 @@ export const site = {
   },
   about: {
     paragraphs: [
-      'A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.',
-      'I care about clear boundaries between modules, automated checks in CI, and documentation that helps the next contributor ship safely.',
+      'I am a healthcare data and clinical research professional with a background in clinical neuroscience and public health. My work combines hands-on patient care experience with technical skills in SQL, Python, Tableau, and data visualization to transform complex healthcare data into meaningful insights.',
+      'I enjoy solving problems at the intersection of medicine and technology, whether that is analyzing clinical data, building interactive dashboards, or exploring research questions that improve patient outcomes. My experience in both clinical and analytical settings allows me to understand the people behind the data while applying evidence-based approaches to decision-making.',
+      'I am currently seeking opportunities in healthcare analytics, clinical research, or data-driven roles where I can continue developing innovative solutions that support research, improve healthcare delivery, and advance patient care.',
       {
         heading: 'Example focus areas',
         bullets: [
