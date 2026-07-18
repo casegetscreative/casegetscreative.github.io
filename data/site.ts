@@ -37,7 +37,7 @@ export const site = {
       },
       {
         heading: 'Sample stack',
-        techItems: ['TypeScript', 'Astro', 'Tailwind CSS', 'Node', 'Vitest'],
+        techItems: ['SQL', 'Tableau', 'Python', 'Microsoft Excel', 'Git & GitHub'],
       },
     ],
   },
