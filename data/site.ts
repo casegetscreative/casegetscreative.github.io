@@ -37,7 +37,7 @@ export const site = {
       },
       {
         heading: 'Sample stack',
-        techItems: ['SQL', 'Tableau', 'Python', 'Microsoft Excel', 'Git & GitHub'],
+        techItems: ['SQL', 'Tableau', 'Python', 'Microsoft Excel', 'Git & GitHub', 'Data Visualization'],
       },
     ],
   },
